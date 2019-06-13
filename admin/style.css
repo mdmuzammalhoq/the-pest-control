@@ -1,0 +1,38 @@
+.action-button{
+	padding:5px 18px;
+	font-size:20px;	
+	color:#fff;	
+	background:#fe5a5b;
+	border:1px solid #fe5a5b;	
+	border-radius:5px;
+	transition:.5s;
+}
+
+.menu-add-table {
+	width:600px;
+	margin:auto;
+}
+.menu-add-table th  , 
+.focus-add-table th,
+.poll-add-table th
+{
+	font-size:22px;
+	padding:10px 0px;
+}
+.menu-add-table td,
+.focus-add-table td,
+.poll-add-table td{
+	vertical-align:middle;
+	text-align:center;
+}
+.focus-add-table textarea{
+	max-width:450px;
+	min-width:450px;
+	height:50px;
+}
+.poll-add-table{
+	width:450px;
+	margin:auto;
+}
+
+

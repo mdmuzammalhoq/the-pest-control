@@ -1,0 +1,27 @@
+.control-img img{
+	width:500px;
+	height:300px;
+	border-radius:10px;
+}
+.control-text h3{
+margin-top:20px;
+text-align:center;
+color:#3498db;
+border-bottom:2px solid #1ec;
+padding-bottom:15px;
+
+}
+.control-text .fa{
+margin-right:15px;
+font-size:18px;
+line-height:20px;
+color:#fff;
+background:#1ec;
+width:20px;
+height:20px;
+text-align:center;
+
+}
+.cotrol-content .row{
+	margin:20px 0px;
+}

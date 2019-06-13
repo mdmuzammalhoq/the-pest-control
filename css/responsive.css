@@ -1,0 +1,270 @@
+/* Medium Layout: 1280px. */
+@media only screen and (min-width: 992px) and (max-width: 1200px) { 
+  
+    
+}
+/* Tablet Layout: 768px. */
+@media only screen and (min-width: 768px) and (max-width: 991px) { 
+ 	 .header-top h3{	
+		font-size:20px;
+		text-align:center;
+	}
+  .header-left{
+	  text-align:center;
+  }
+  
+  .item h1{
+	  font-size:20px;
+	  top:40%;
+  }
+  .control{	
+	top:70%;
+	transform:translateY(-50%);
+	font-size:40px;
+	color:white;
+	border:1px solid #1ec;
+	border-radius:50%;
+	width:50px;
+	height:50px;	
+	text-align:center;
+	line-height:50px;	
+}
+.carousel-inner .active {
+	height:300px;
+}
+.service-item{
+	width:calc(75% - 20px);	
+	margin:10px auto;
+	height:100%;
+	text-align:center;
+}
+.service-item a {
+	width: 100%;	
+}
+    
+.service-item p{	
+	font-size: 14px;
+}
+.service-item h1 {
+	font-size:22px;
+}
+.ask-item{
+	width:calc(75% - 10px);
+height:100%;	
+}
+.ask-item h1{
+	font-size:20px;
+}
+.ask-item p{
+	text-align:center;
+	line-height:20px;
+}
+.social-inner{
+	height:100%;	
+}
+.social-inner p {
+	line-height: 18px;
+}
+.social-inner h1 {
+	margin-bottom: 20px; 
+	font-size: 22px;
+}
+    
+}
+/* Mobile Layout: 320px. */
+@media only screen and (max-width: 767px) { 
+ .header-top h3{	
+		font-size:20px;
+		text-align:center;
+	}
+  .header-left{
+	  text-align:center;
+  }
+  
+  .item h1{
+	  font-size:20px;
+	  top:40%;
+  }
+  .control{	
+	top:70%;
+	transform:translateY(-50%);
+	font-size:40px;
+	color:white;
+	border:1px solid #1ec;
+	border-radius:50%;
+	width:50px;
+	height:50px;	
+	text-align:center;
+	line-height:50px;	
+}
+.carousel-inner .active {
+	height:300px;
+}
+.service-item{
+	width:calc(100% - 20px);	
+	margin:10px 0px;
+	height:100%;
+	text-align:center;
+}
+.service-item a {
+	width: 100%;	
+}
+.service-item h1 {
+	font-size:22px;
+}
+    
+.service-item p{	
+	font-size: 14px;
+}
+.ask-item{
+	width:calc(100% - 10px);
+height:100%;	
+}
+.ask-item h1{
+	font-size:20px;
+}
+.ask-item p{
+	text-align:center;
+	line-height:20px;
+}
+.social-inner{
+	height:100%;	
+}
+.social-inner p {
+	line-height: 18px;
+}
+.social-inner h1 {
+	margin-bottom: 20px; 
+	font-size: 22px;
+}
+.contact-form-area-content{
+	width:300px;
+	margin:auto;
+	text-align:center;
+}
+.contact-form-area-content input[type="text"],input[type=email],textarea{
+	padding:10px;
+	width:190px;
+}
+.contact-form-area-content textarea{
+	width:200px;
+	height:150px;
+}
+.form-new-service input[type="text"] {
+	width: 210px;
+}
+.form-table {
+	margin-left: 0px;
+}
+.call-area-left {
+	padding: 10px;
+	width: 100%;
+	margin: 0px;	
+	border-radius: 10px;
+	height:100%;
+	text-align:center;
+}
+.call-area-left h2{
+font-size:20px;
+}
+.call-area-left a{
+	margin-top:10px;
+	display:inline-block;
+}
+.call-area-right {
+	height: 100%;
+	border-radius: 10px;
+	padding: 10px;
+	width: 240px;
+	margin: 20px;
+}
+.call-area-right {
+	height: 100%;
+	border-radius: 10px;
+	padding: 10px; 
+	width: 100%;
+	margin: 10px 0px;
+}
+}
+/* Wide Mobile Layout: 480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) { 
+	 .header-top h3{	
+		font-size:20px;
+		text-align:center;
+	}
+  .header-left{
+	  text-align:center;
+  }
+  
+  .item h1{
+	  font-size:20px;
+	  top:40%;
+  }
+  .control{	
+	top:70%;
+	transform:translateY(-50%);
+	font-size:40px;
+	color:white;
+	border:1px solid #1ec;
+	border-radius:50%;
+	width:50px;
+	height:50px;	
+	text-align:center;
+	line-height:50px;	
+}
+.carousel-inner .active {
+	height:300px;
+}
+.service-item{
+	width:calc(75% - 20px);	
+	margin:10px auto;
+	height:100%;
+	text-align:center;
+}
+.service-item a {
+	width: 100%;	
+}
+.service-item h1 {
+	font-size:22px;
+}
+    
+.service-item p{	
+	font-size: 14px;
+}
+.ask-item{
+	width:calc(75% - 10px);
+height:100%;	
+}
+.ask-item h1{
+	font-size:20px;
+}
+.ask-item p{
+	text-align:center;
+	line-height:20px;
+}
+.social-inner{
+	height:100%;
+	
+}
+.social-inner p {
+	line-height: 18px;
+}
+.social-inner h1 {
+	margin-bottom: 20px; 
+	font-size: 22px;
+}
+.contact-form-area-content{
+	width:350px;
+	margin:auto;
+	text-align:center;
+}
+.contact-form-area-content input[type="text"],input[type=email],textarea{
+	padding:10px;
+	width:220px;
+}
+.contact-form-area-content textarea{
+	width:240px;
+	height:150px;
+}
+
+}
